@@ -1,7 +1,7 @@
-name: r-environment
+name: r-env
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - r-essentials
   - r-base
